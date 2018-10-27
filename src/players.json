@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Will Barton",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203115.png",
+      "points": 15,
+      "clicked": "false"
+    },
+    {
+      "id": 2,
+      "name": "Malik Beasley",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627736.png",
+      "points": 5,
+      "clicked": "false"
+    },
+    {
+      "id": 3,
+      "name": "Torrey Craig",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628470.png",
+      "points": 5,
+      "clicked": "false"
+    },
+    {
+        "id": 4,
+        "name": "Gary Harris",
+        "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203914.png",
+        "points": 18,
+        "clicked": "false"
+      },
+    {
+        "id": 5,
+        "name": "Juancho Hernangomez",
+        "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627823.png",
+        "points": 3,
+        "clicked": "false"
+      },
+    {
+      "id": 6,
+      "name": "Nikola Jokic",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png",
+      "points": 25,
+      "clicked": "false"
+    },
+    {
+      "id": 7,
+      "name": "Trey Lyles",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626168.png",
+      "points": 10,
+      "clicked": "false"
+    },
+    {
+      "id": 8,
+      "name": "Paul Milsap",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200794.png",
+      "points": 15,
+      "clicked": "false"
+    },
+    {
+      "id": 9,
+      "name": "Jamal Murray",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png",
+      "points": 18,
+      "clicked": "false"
+    },
+    {
+      "id": 10,
+      "name": "Mason Plumlee",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203486.png",
+      "points": 8,
+      "clicked": "false"
+    },
+    {
+      "id": 11,
+      "name": "Michael Porter Jr.",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629008.png",
+      "points": 5,
+      "clicked": "false"
+    },
+    {
+      "id": 12,
+      "name": "Isaiah Thomas",
+      "image": "http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202738.png",
+      "points": 5,
+      "clicked": "false"
+    }
+  ]
+  
